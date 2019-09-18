@@ -1,11 +1,11 @@
 # Prerequisites
 1. Create a dev branch from the master branch
-2. Add "1. REMOVE THIS LINE IN MERGE LATER" to the end of this file.
-3. Commit the changes with message "1. Add line that will cause merge conflict."
-4. Create the following three feature branches from the dev branch
+2. Create the following three feature branches from the dev branch
   1. f1
   2. f2
   3. f3
+3. Add "1. REMOVE THIS LINE IN MERGE LATER" to the end of this file.
+4. Commit the changes with message "1. Add line that will cause merge conflict."
 
 # Instructions
 1. Checkout the f1 branch.
