@@ -4,8 +4,9 @@
   1. f1
   2. f2
   3. f3
-3. Add "1. REMOVE THIS LINE IN MERGE LATER" to the end of this file.
-4. Commit the changes with message "1. Add line that will cause merge conflict."
+3. Checkout the dev branch
+4. Add "1. REMOVE THIS LINE IN MERGE LATER" to the end of this file.
+5. Commit the changes with message "1. Add line that will cause merge conflict."
 
 # Instructions
 1. Checkout the f1 branch.
@@ -17,7 +18,7 @@
 7. Checkout the f2 branch.
 8. Add "2. f2 0" to the end of this file.
 9. Stage the changes, but don't commit. Undo the changes so that they are no longer staged.
-10.Undo the changes so that they are no longer tracked (i.e. they have been completely rolled back)
+10. Undo the changes so that they are no longer tracked (i.e. they have been completely rolled back)
 11. Add "2. f2 1" to the end of this file.
 12. Commit the changes  with comment "f2 1"
 13. Checkout the f3 branch.
@@ -43,4 +44,3 @@
 33. Rebase the dev branch with the f3 branch.
 
 # Change Log
-
